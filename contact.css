@@ -1,0 +1,101 @@
+ 
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column;
+}
+
+
+form {
+  width: 100%;
+  max-width: 400px;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+  text-align: center;
+  color: #27ae60;
+  font-size: 21px;
+}
+
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+}
+
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+
+button {
+  background: #27ae60;
+  color: white;
+  padding: 12px;
+  border: none;
+  width: 100%;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 15px;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #219150;
+}
+
+
+.social-links {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #333;
+}
+
+.social-links img {
+  width: 30px;
+  height: 30px;
+  margin: 5px;
+}
+
+
+@media (max-width: 600px) {
+  form {
+      width: 90%;
+  }
+}
+
+
+
+
