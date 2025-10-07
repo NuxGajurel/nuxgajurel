@@ -1,49 +1,52 @@
-<br clear="both">
+<h1 align="center">
+Hi I'm Nux Gajurel
+</h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NuxGajurel.NuxGajurel&left_text=Profile%20Views"  />
-</div>
+<p align="center">
+  <b>15-year-old Front-End Developer</b> passionate about crafting clean, modern, and responsive web experiences.<br>
+  Currently learning <b>Node.js</b> and exploring <b>Full-Stack Development (MERN)</b>.
+</p>
 
-###
 
-<h1 align="left">Hey 👋 I'm Nux</h1>
 
-###
+<h3 align="center">🧠 Tech Stack</h3>
 
-<p align="left">Hi, I'm Nux Gajurel a 15-year-old Front-End Developer from Nepal who’s passionate about building modern, responsive, and user-friendly websites.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
 
-###
 
-<h2 align="left">About me</h2>
 
-###
 
-<p align="left">👋 Hi, I’m Nux<br>🌱 I’m currently learning Node.js  <br>💻 I love building web applications  <br>✨ Always curious to learn more</p>
 
-###
 
-<h2 align="left">Tech Stack:</h2>
+<h3 align="center">🌐 Connect With Me</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/NuxGajurel">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/nux-gajurel-355962348">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/nuxgajurel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:nuxgajurel30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
 
-###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NuxGajurel&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views" />
+</p>
