@@ -3,7 +3,6 @@
 **15-year-old Front-End Developer** passionate about crafting clean, modern, and responsive web experiences.  
 Currently exploring **Full-Stack Development**.
 
----
 
 ### 🧠 Tech Stack
 <p align="left">
@@ -18,7 +17,7 @@ Currently exploring **Full-Stack Development**.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
----
+
 
 ### 🌐 Connect With Me
 <p align="left">
@@ -36,7 +35,7 @@ Currently exploring **Full-Stack Development**.
   </a>
 </p>
 
----
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NuxGajurel&label=Profile%20Views&color=1E90FF&style=flat-square" alt="Profile views" />
