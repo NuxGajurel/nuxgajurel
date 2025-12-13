@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1200&color=3BAC66&width=520&lines=Hi%2C+I'm+Nux+Gajurel+%F0%9F%91%8B" />
 
-**Aspiring Full-Stack Developer · 15**  
+**15-Year-Old Aspiring Full-Stack Developer**  
 Building clean, modern & responsive web experiences 🚀
 
 
