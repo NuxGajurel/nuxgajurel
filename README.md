@@ -1,34 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=38&pause=1000&color=3BAC66&width=700&lines=Hi+there%2C+I'm+Nux+Gajurel!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1200&color=3BAC66&width=520&lines=Hi%2C+I'm+Nux+Gajurel+%F0%9F%91%8B" />
 
-### 👨‍💻 About Me
-**15-year-old Aspiring Full-Stack Developer**  
-I enjoy building **clean, modern, and responsive** web applications.  
-Currently learning backend technologies to become a **complete Full-Stack Developer** 🚀
+**Aspiring Full-Stack Developer · 15**  
+Building clean, modern & responsive web experiences 🚀
 
 
-### 🧠 Tech Stack
-**Frontend**
-- ⚛️ React
-- 🎨 Tailwind CSS
-- 🧩 HTML5, CSS3
-- ✨ JavaScript (ES6+)
-- ⚡ Vite
 
-**Backend**
-- 🟢 Node.js
-- 🚂 Express.js
-
-**Tools & Design**
-- 🎨 Figma
-- 🔧 Git & GitHub
+### 🧠 Tech
+**Frontend:** ⚛️ React · 🎨 Tailwind · 🟨 JavaScript · 🧩 HTML · 🎨 CSS · ⚡ Vite  
+**Backend:** 🟢 Node.js · 🚂 Express.js  
+**Tools:** 🎨 Figma · 🔧 Git & GitHub
 
 
-### 🌐 Connect With Me
-- 🐙 GitHub: [github.com/NuxGajurel](https://github.com/NuxGajurel)
-- 💼 LinkedIn: [nux-gajurel](https://www.linkedin.com/in/nux-gajurel-355962348)
-- 📸 Instagram: [@nuxgajurel](https://www.instagram.com/nuxgajurel/)
-- ✉️ Email: [nuxgajurel30@gmail.com](mailto:nuxgajurel30@gmail.com)
 
+### 🌐 Connect
+🐙 [GitHub](https://github.com/NuxGajurel)  
+💼 [LinkedIn](https://www.linkedin.com/in/nux-gajurel-355962348)  
+📸 [Instagram](https://www.instagram.com/nuxgajurel/)  
+✉️ [Email](mailto:nuxgajurel30@gmail.com)
 
-👀 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=NuxGajurel&color=1E90FF&style=flat)
+<img src="https://komarev.com/ghpvc/?username=NuxGajurel&color=1E90FF&style=flat" />
