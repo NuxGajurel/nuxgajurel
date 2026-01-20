@@ -3,7 +3,7 @@
 <b>15-Year-Old Aspiring Full-Stack Developer</b><br/>
 Building clean, modern & responsive web experiences 🚀
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -30,7 +30,7 @@ Building clean, modern & responsive web experiences 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 <p>
@@ -48,6 +48,5 @@ Building clean, modern & responsive web experiences 🚀
   </a>
 </p>
 
----
 
 <img src="https://komarev.com/ghpvc/?username=NuxGajurel&color=1E90FF&style=flat" />
