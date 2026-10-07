@@ -1,9 +1,16 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1200&color=3BAC66&width=520&lines=Hi%2C+I'm+Nux+Gajurel+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1200&color=3BAC66&width=600&lines=Hi%2C+I'm+Nux+Gajurel+%F0%9F%91%8B" />
 
 <b>16-Year-Old Aspiring Full-Stack Developer</b><br/>
 Building clean, modern & responsive web experiences 🚀
 
-## 🌐 Connect With Me
+### 🌐 My Portfolio
+
+<a href="https://www.nuxgajurel.com/">
+  <img src="https://img.shields.io/badge/Portfolio-3BAC66?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+### 🔗 Connect With Me
+
 <p>
   <a href="https://github.com/NuxGajurel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
@@ -19,5 +26,4 @@ Building clean, modern & responsive web experiences 🚀
   </a>
 </p>
 
-
-<img src="https://komarev.com/ghpvc/?username=NuxGajurel&color=1E90FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=NuxGajurel&color=3BAC66&style=flat" />
